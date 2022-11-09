@@ -1,0 +1,17 @@
+[
+       {
+        "id": "1",
+        "nombre":"Habitacion 1",
+        "Valor": 35000
+    },
+    {
+        "id": "2",
+        "nombre":"HBITACION 2 ",
+        "Valor": 45000
+    },
+    {
+        "id": "3",
+        "nombre":"HABITACION 3",
+        "Valor": 85000
+    }
+]
